@@ -53,10 +53,6 @@ Support this project with your organization. Your logo will show up here with a 
 <a href="https://opencollective.com/vue-stripe-checkout/organization/8/website"><img src="https://opencollective.com/vue-stripe-checkout/organization/8/avatar.svg"></a>
 <a href="https://opencollective.com/vue-stripe-checkout/organization/9/website"><img src="https://opencollective.com/vue-stripe-checkout/organization/9/avatar.svg"></a>
 
-## GitAds Sponsored
-
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=vue-stripe/vue-stripe@github)](https://gitads.dev/v1/ad-track?source=vue-stripe/vue-stripe@github)
-
 
 **SPECIAL THANKS TO:**
 
@@ -71,3 +67,7 @@ Support this project with your organization. Your logo will show up here with a 
 Made with :heart: by [Joff Tiquez](https://twitter.com/jrtiquez)
 
 <!-- GitAds-Verify: SWH3B6EE8KV1G434U1PR889L19H97DV9 -->
+
+## GitAds Sponsored
+
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=vue-stripe/vue-stripe@github)](https://gitads.dev/v1/ad-track?source=vue-stripe/vue-stripe@github)
