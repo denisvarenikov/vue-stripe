@@ -65,3 +65,5 @@ Support this project with your organization. Your logo will show up here with a 
 [<img src="https://guanqr.com/images/gitbook-logo.png" width="300px"/>](https://gitbook.com)
 
 Made with :heart: by [Joff Tiquez](https://twitter.com/jrtiquez)
+
+<!-- GitAds-Verify: SWH3B6EE8KV1G434U1PR889L19H97DV9 -->
