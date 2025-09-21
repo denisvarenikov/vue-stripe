@@ -25,11 +25,6 @@ You can support this project by giving it a star, or following the author. You c
 
 ## Contributors
 
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/denisvarenikov/vue-stripe-checkout/graphs/contributors"><img src="https://opencollective.com/vue-stripe-checkout/contributors.svg?width=890&button=false" /></a>
-
 ### Financial Contributors
 
 Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/vue-stripe-checkout/contribute)]
